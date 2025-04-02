@@ -1,0 +1,10 @@
+id,firstName,lastName,salary,managerId
+1,Jane,Johnson,52561,2
+2,Alice,Miller,110543
+3,Jane,Moore,104980,1
+4,David,Winters,89006,3
+5,David,Miller,105853,4
+6,Emily,Brown,86858,5
+7,David,Summers,89006,6
+8,King,Winters,56009,2
+9,Dave,Freeze,89006,2
